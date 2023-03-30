@@ -20,6 +20,7 @@ public class Drinks extends Food {
 
     public String getType() {
         return this.Type;
+        //this is drinks class
     }
 
     public int getSize() {
